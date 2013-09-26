@@ -1,2 +1,2 @@
 tagText is a VARCHAR 50!
-	initiasier.py
+	defined in initiasier.py
